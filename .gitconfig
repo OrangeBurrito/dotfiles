@@ -1,0 +1,10 @@
+[user]
+	email = root@orangeburrito.com
+[alias]
+	aacm = !git add . && git commit -m
+	cob = checkout -b
+	co = checkout
+	br = branch
+	lg = log --oneline
+[core]
+	ignorecase = false
