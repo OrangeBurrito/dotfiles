@@ -1,5 +1,6 @@
 [user]
 	email = root@orangeburrito.com
+	name = OrangeBurrito
 [alias]
 	aacm = !git add . && git commit -m
 	cob = checkout -b
